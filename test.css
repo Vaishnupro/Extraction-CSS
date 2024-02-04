@@ -1,0 +1,47 @@
+/* Style de base pour le corps de la page */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f2f2f2;
+    margin: 0;
+    padding: 0;
+}
+
+/* Style pour l'en-tête de la page */
+header {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Style pour la navigation */
+nav {
+    background-color: #555;
+    color: #fff;
+    padding: 10px;
+}
+
+/* Style pour les liens de navigation */
+nav a {
+    color: #fff;
+    text-decoration: none;
+    margin: 0 10px;
+}
+
+/* Style pour la section principale */
+main {
+    padding: 20px;
+}
+
+/* Style pour les articles */
+article {
+    margin-bottom: 20px;
+}
+
+/* Style pour le pied de page */
+footer {
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+    text-align: center;
+}
